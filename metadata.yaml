@@ -1,0 +1,26 @@
+_repo: The-Master-Girl_59039
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Buckland, Arthur H.
+    alias: Buckland, A. H. (Arthur H.)
+    gutenberg_agent_id: '8759'
+    url: http://www.gutenberg.org/2009/agents/8759
+creator:
+  author:
+    agent_name: Hilliers, Ashton
+    gutenberg_agent_id: '50267'
+    url: http://www.gutenberg.org/2009/agents/50267
+description: ''
+gutenberg_issued: '2019-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Master-Girl
+url: http://www.gutenberg.org/ebooks/59039
